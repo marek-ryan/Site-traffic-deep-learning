@@ -1,0 +1,4 @@
+- Exploratory data analysis of over 900 recipes to gain insights which lead to higher traffic and more subscriptions
+- Data was cleaned and validated using pandas, with matplotlib and seaborn for vizualizations
+- For deep learning, the data was normalized and split into test and train sections using sklearn
+- TensorFlow was utilized to build a baseline model leading to a subsequent improved model with 73% accuracy on validation data in predicting which recipes will draw high traffic and thus increase revenue 
